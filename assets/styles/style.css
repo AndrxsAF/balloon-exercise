@@ -1,0 +1,54 @@
+.balloon {
+    position: relative;
+    flex-grow: 1;
+    width: 50px;
+    margin: 3px;
+    opacity: .9;
+    border-radius: 50%;
+    height: 115px;
+    cursor: pointer; 
+    animation: float 6s ease-in-out infinite;
+}
+
+.custom-button {
+    width: -webkit-fill-available;
+}
+
+.box-width {
+    max-width: 30em;
+}
+
+.popped{
+    background: none !important;
+}
+
+.b-blue{
+    background: blue;
+}
+.b-pink{
+    background: pink;
+}
+.b-brown{
+    background: brown;
+}
+.b-red{
+    background: red;
+}
+.b-yellow{
+    background: yellow;
+}
+.b-green{
+    background: greenyellow;
+}
+.b-orange{
+    background: orange;
+}
+.b-purple{
+    background: purple;
+}
+.b-black{
+    background: cadetblue;
+}
+.b-beige{
+    background: aqua;
+}
